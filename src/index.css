@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  
+  --color-forest: #183B2B;
+  --color-forest-dark: #122e22;
+  --color-forest-light: #23523d;
+  --color-ivory: #FFFDF8;
+  --color-ivory-warm: #FAF6ED;
+  --color-chili: #C74632;
+  --color-chili-dark: #AB3724;
+  --color-orange: #E87932;
+  --color-sage: #E8EDE3;
+  --color-sage-light: #F4F7F1;
+  --color-charcoal: #20231F;
+  --color-muted: #77766F;
+  --color-border-subtle: rgba(24, 59, 43, 0.08);
+}
+
+@layer base {
+  body {
+    background-color: #FFFDF8;
+    color: #20231F;
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Custom smooth scroll offset for sticky header */
+html {
+  scroll-padding-top: 5rem;
+}

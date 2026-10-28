@@ -1,0 +1,6 @@
+{
+  "name": "Uptown Dumpling",
+  "description": "Authentic, flavorful dumplings and Asian-inspired dishes in Dallas, TX. Preston Road location, fresh flavors, and made-to-share favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

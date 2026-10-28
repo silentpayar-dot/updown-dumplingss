@@ -1,0 +1,718 @@
+Here is a copy-and-paste-ready master prompt for Google AI Studio to build a beautiful, professional website for Uptown Dumpling. I've used your uploaded Flav oria restaurant design as the visual reference while adapting the branding, layout, and content to an Asian dumpling restaurant.
+
+The prompt includes responsive design, menu sections, online ordering, table reservations, Google Maps, contact information, SEO, and functional buttons.
+
+# MASTER PROMPT: BUILD A PROFESSIONAL WEBSITE FOR UPTOWN DUMPLING
+
+## 1. BUSINESS INFORMATION
+
+There is a business named **Uptown Dumpling**.
+
+- **Business Name:** Uptown Dumpling
+- **Business Address:** 18101 Preston Rd #204c, Dallas, TX 75252, United States
+- **Contact Number:** +1 214-238-6058
+- **Business Category:** Restaurant — Asian Cuisine / Dumpling Restaurant
+- **Google Business Profile:** [https://maps.app.goo.gl/R3DEpH9V8L2DbKec7](https://maps.app.goo.gl/R3DEpH9V8L2DbKec7)
+- **Website Status:** The business does not currently have a website.
+- **Primary Goal:** Build a beautiful, modern, responsive, professional restaurant website that attracts local customers, showcases the food, increases phone calls, drives online orders, and helps customers find the restaurant.
+
+## 2. YOUR ROLE
+
+Act as a senior web designer, UI/UX specialist, restaurant branding expert, conversion-rate optimization specialist, and full-stack web developer.
+
+Build a complete, production-quality website for Uptown Dumpling using Google AI Studio.
+
+The website should look like it was designed by a premium restaurant branding agency. It must be visually appealing, fast, accessible, mobile-friendly, easy to navigate, and designed to convert visitors into paying customers.
+
+Do not create a generic restaurant template. Build a unique website specifically for Uptown Dumpling, with an elegant Asian food identity and a premium dumpling-focused visual experience.
+
+Use the uploaded restaurant website screenshot as a visual reference for the overall composition, spacing, typography, food photography, navigation, menu cards, promotional sections, and footer structure. Adapt the design to Uptown Dumpling instead of copying the original restaurant's branding.
+
+## 3. VISUAL DESIGN AND BRAND IDENTITY
+
+Create a sophisticated, welcoming, appetizing Asian restaurant aesthetic.
+
+### Color palette
+
+Use the following colors consistently:
+
+- Deep forest green: #183B2B
+- Warm ivory: #FFFDF8
+- Dumpling chili red: #C74632
+- Golden orange: #E87932
+- Soft sage green: #E8EDE3
+- Dark charcoal: #20231F
+- Muted gray: #77766F
+- White: #FFFFFF
+
+Use warm ivory as the main background, forest green for important headings and buttons, and chili red or golden orange for promotional accents, prices, and calls to action.
+
+Maintain generous whitespace and a premium editorial appearance. Avoid excessive bright colors, heavy gradients, unnecessary shadows, and cluttered layouts.
+
+### Typography
+
+Use elegant typography that complements Asian cuisine:
+
+- Headings: Playfair Display or a similar refined serif font.
+- Body text: Inter or a clean modern sans-serif font.
+- Buttons and navigation: Inter with medium or semibold weight.
+- Optional decorative accents: a tasteful italic serif style.
+
+Use clear font sizes, appropriate line heights, strong visual hierarchy, and excellent readability across all screen sizes.
+
+### Photography and visual assets
+
+Use high-quality, realistic food photography featuring:
+
+- Steamed Chinese dumplings arranged on ceramic plates.
+- Pan-fried dumplings with golden crispy bottoms.
+- Soup dumplings and dumplings served with dipping sauce.
+- Chili oil, scallions, fresh herbs, and Asian dipping sauces.
+- Noodles, rice dishes, and other Asian restaurant dishes where appropriate.
+- Warm, inviting restaurant interiors.
+- Close-up food photography with natural lighting and appetizing textures.
+
+Use authentic-looking food images from reliable, legally usable image sources or AI-generated food photography. Never use unrelated stock photography, low-resolution images, or broken image links.
+
+Prioritize large, high-quality food photography in the hero section and smaller consistent images in menu cards.
+
+Do not use the Flav oria logo, restaurant name, or its original food branding. Create an original visual identity for Uptown Dumpling.
+
+## 4. WEBSITE STRUCTURE
+
+Create a polished single-page restaurant website with smooth scrolling and functional navigation.
+
+Include the following sections in this order.
+
+### SECTION 1: TOP INFORMATION BAR
+
+Create a slim information bar at the top of the website.
+
+Left side:
+
+- Location icon.
+- Text: 18101 Preston Rd #204c, Dallas, TX 75252.
+
+Center:
+
+- A short welcome message such as "Fresh Dumplings. Bold Flavors. Made to Share."
+
+Right side:
+
+- Clickable phone number: +1 214-238-6058.
+- Small social media icons only for verified or configured profiles.
+
+Keep this bar compact, elegant, and responsive. On mobile devices, simplify it to the phone number and location link.
+
+Do not invent opening hours or social media account URLs. Use business-confirmed information when available.
+
+### SECTION 2: NAVIGATION HEADER
+
+Create a clean, elegant navigation bar with a premium restaurant appearance.
+
+Left side:
+
+- Design an original Uptown Dumpling logo.
+- Use a simple dumpling illustration, steam lines, or a minimal circular emblem.
+- Display the name "Uptown Dumpling" in elegant typography.
+
+Navigation links:
+
+- Home
+- Our Story
+- Menu
+- Gallery
+- Find Us
+- Contact
+
+Primary CTA:
+
+- "Order Online" or "Call to Order"
+
+Make the header sticky when scrolling. Use a mobile hamburger menu with a smooth open-and-close interaction.
+
+Navigation must scroll to the correct sections. Do not include a nonfunctional reservation or ordering button.
+
+### SECTION 3: HERO SECTION
+
+Create a striking two-column hero section inspired by the supplied screenshot.
+
+Left column:
+
+Small eyebrow text:\
+"FRESHLY MADE • FULL OF FLAVOR"
+
+Main headline:\
+"Little Pockets of Joy. Big Flavors."
+
+Supporting paragraph:\
+"Discover delicious dumplings, comforting Asian favorites, and bold flavors worth sharing. Visit Uptown Dumpling in Dallas for a satisfying meal made for every craving."
+
+Primary button:\
+"Explore Our Menu"
+
+Secondary button:\
+"Call to Order"
+
+Below the buttons, include three small value propositions with minimal line icons:
+
+- Flavorful Favorites
+- Made for Sharing
+- A Local Dallas Spot
+
+Use these as general brand messaging rather than unverified claims about ingredients or preparation methods.
+
+Right column:
+
+Display a large, premium food photograph of beautifully plated dumplings with dipping sauce, garnishes, and warm natural lighting.
+
+Place a small decorative badge over the image with text such as:\
+"YOUR DUMPLING CRAVINGS START HERE"
+
+Do not display unsupported awards, customer counts, ratings, years of experience, or other unverified claims.
+
+On desktop, the food image should occupy approximately 50–55% of the hero section. On mobile, stack the image and text with the main CTA clearly visible near the top.
+
+### SECTION 4: INTRODUCTION / ABOUT US
+
+Create an elegant introduction section with a large restaurant or food photograph on one side and text on the other.
+
+Eyebrow:\
+"WELCOME TO UPTOWN DUMPLING"
+
+Headline:\
+"Good Food. Great Company."
+
+Description:\
+"At Uptown Dumpling, every visit is an opportunity to enjoy comforting Asian flavors in a welcoming setting. Whether you're stopping by for a quick bite, meeting friends, or sharing a meal with family, we're here to make your dining experience enjoyable."
+
+Include three small feature blocks:
+
+1. **Flavorful Favorites** — Explore dumplings and other satisfying dishes.
+2. **Made to Share** — Find dishes that are perfect for enjoying together.
+3. **A Dallas Destination** — Visit us at our Preston Road location.
+
+CTA:\
+"Discover Our Menu"
+
+Use refined typography, soft sage backgrounds, rounded image corners, and subtle decorative accents.
+
+Do not claim that all food is handmade, organic, locally sourced, or prepared using a specific traditional technique unless the business confirms it.
+
+### SECTION 5: POPULAR MENU ITEMS
+
+Create a premium menu showcase with the heading:
+
+Eyebrow:\
+"DELICIOUS FAVORITES"
+
+Main heading:\
+"Something Good Is Waiting"
+
+Supporting text:\
+"Explore a selection of dumplings and Asian-inspired favorites."
+
+Display a responsive grid of six menu cards. Each card should contain:
+
+- A high-quality food photograph.
+- Dish name.
+- Short appetizing description.
+- Price, only when verified.
+- Optional category label.
+- An "Order Now" or "Ask About This Dish" button, depending on actual ordering functionality.
+
+Suggested placeholder dish concepts to verify against the actual restaurant menu:
+
+1. Steamed Dumplings
+2. Pan-Fried Dumplings
+3. Soup Dumplings
+4. Chili Oil Dumplings
+5. Asian Noodles
+6. Rice and Signature Entrées
+
+Important: These are proposed content placeholders, not verified menu offerings. Replace them with actual menu items and descriptions whenever reliable menu information is available. Do not represent unverified dishes, prices, dietary information, or ingredients as confirmed facts.
+
+Add category filters if the actual menu supports them, such as:
+
+- All
+- Dumplings
+- Noodles
+- Rice & Entrées
+- Sides
+
+The filters must work. Clicking a category should display the corresponding items without reloading the page.
+
+Include a prominent CTA:\
+"View Full Menu"
+
+Connect it to a real menu page, menu document, or verified external menu link. If none exists, show a clearly identified editable menu area instead of inventing a destination.
+
+### SECTION 6: SIGNATURE DUMPLING FEATURE
+
+Create a visually distinctive full-width promotional section featuring a large close-up photograph of dumplings.
+
+Headline:\
+"Your Next Favorite Bite."
+
+Description:\
+"From comforting classics to bold, flavorful combinations, discover a delicious way to satisfy your dumpling cravings."
+
+CTA:\
+"Explore Dumpling Favorites"
+
+Design this section with a forest-green background, ivory typography, warm food photography, and subtle decorative elements.
+
+Use a balanced image-and-text composition, with rounded image corners and a premium editorial layout.
+
+Do not invent a specific best-selling dish or claim that an item is a signature bestseller unless verified by the restaurant.
+
+### SECTION 7: SPECIAL OFFERS
+
+Create an attractive promotional banner with a dark green background and a food photograph.
+
+Suggested heading:\
+"A Little Something Delicious"
+
+Supporting text:\
+"Check out our latest specials and discover something new to enjoy."
+
+CTA:\
+"Explore Our Menu"
+
+Make the offer section easy for the restaurant owner to update.
+
+Do not advertise fabricated discounts, coupon codes, free delivery, loyalty rewards, or time-limited deals. Only display specific offers after the business confirms them.
+
+If there is no verified active promotion, show a general featured-dishes banner rather than a fake discount.
+
+### SECTION 8: WHY VISIT UPTOWN DUMPLING?
+
+Create four attractive feature cards with simple line icons.
+
+Card 1:\
+**Dumpling Favorites**\
+"Discover dumplings and satisfying Asian-inspired dishes."
+
+Card 2:\
+**A Welcoming Experience**\
+"Enjoy a relaxed place to meet, eat, and share a meal."
+
+Card 3:\
+**Convenient Location**\
+"Find us on Preston Road in Dallas, Texas."
+
+Card 4:\
+**Easy to Reach**\
+"Call us directly for questions about the menu and visiting."
+
+Use consistent icon sizes, subtle hover effects, warm backgrounds, and clean spacing.
+
+Do not make unsupported claims about delivery speed, food quality certifications, ingredient sourcing, or customer satisfaction statistics.
+
+### SECTION 9: FOOD GALLERY
+
+Create an attractive image gallery showcasing the restaurant's food and atmosphere.
+
+Include approximately six to eight images featuring:
+
+- Dumplings from different angles.
+- Dumplings with dipping sauces.
+- Noodle dishes.
+- Colorful Asian-inspired meals.
+- Restaurant interior, if authentic images are available.
+- Shared dining or table settings.
+
+Use a modern masonry-style or balanced grid layout with consistent spacing.
+
+Implement a lightbox interaction so visitors can click an image to view it larger and close it easily.
+
+On mobile, use a responsive two-column grid or a horizontally scrollable gallery.
+
+Only use actual restaurant interior photographs if they are available. Clearly treat other photography as illustrative food imagery.
+
+### SECTION 10: VISIT OUR RESTAURANT
+
+Create a location section with the headline:
+
+"Come Find Us"
+
+Display the confirmed address:
+
+Uptown Dumpling\
+18101 Preston Rd #204c\
+Dallas, TX 75252\
+United States
+
+Phone:\
++1 214-238-6058
+
+Add the following buttons:
+
+- "Get Directions"
+- "Call the Restaurant"
+
+Google Business Profile:\
+[https://maps.app.goo.gl/R3DEpH9V8L2DbKec7](https://maps.app.goo.gl/R3DEpH9V8L2DbKec7)
+
+Link the address and directions button to Google Maps using the provided business location or Google Business Profile link.
+
+Embed a Google Map only if a valid, working embed URL is available and the integration is configured correctly.
+
+Do not guess the map coordinates or use a map embed that points to a different business.
+
+Add an editable opening-hours component. Populate it only after the restaurant's actual operating hours are confirmed. If the hours are unknown, display "Please call to confirm today's hours" rather than invented hours.
+
+### SECTION 11: CUSTOMER REVIEWS
+
+Create a review section titled:
+
+"What Guests Are Saying"
+
+Use a clean, elegant layout with review cards.
+
+Important requirements:
+
+- Do not fabricate customer testimonials.
+- Do not invent customer names, review dates, star ratings, or review counts.
+- Use actual, publicly available reviews only when they can be verified and used appropriately.
+- Link the section to the business's Google Business Profile for visitors who want to read reviews.
+- If verified review content is unavailable, show a simple card inviting visitors to view reviews on Google instead of displaying fake testimonials.
+
+CTA:\
+"View Us on Google"
+
+Use the provided Google Business Profile link.
+
+### SECTION 12: CALL-TO-ACTION SECTION
+
+Create a visually appealing closing CTA with a warm food photograph or an ivory background with subtle dumpling-inspired graphics.
+
+Headline:\
+"Craving Something Delicious?"
+
+Description:\
+"Make Uptown Dumpling your next stop for satisfying Asian-inspired food in Dallas."
+
+Buttons:
+
+- "Explore the Menu"
+- "Call +1 214-238-6058"
+
+The phone button must use a functional telephone link.
+
+Keep the section focused and uncluttered.
+
+### SECTION 13: FOOTER
+
+Create a professional footer using a deep forest-green background and ivory text.
+
+Column 1: Brand
+
+- Uptown Dumpling logo.
+- Short brand description.
+- Verified social media links, if available.
+
+Column 2: Quick Links
+
+- Home
+- Our Story
+- Menu
+- Gallery
+- Find Us
+- Contact
+
+Column 3: Visit Us
+
+- 18101 Preston Rd #204c
+- Dallas, TX 75252
+- United States
+- Clickable phone number: +1 214-238-6058
+
+Column 4: Helpful Links
+
+- Google Business Profile
+- Get Directions
+- View Menu
+- Contact the Restaurant
+
+Bottom footer:\
+"© [Current Year] Uptown Dumpling. All rights reserved."
+
+Use a dynamically updated year.
+
+Include Privacy Policy and Terms links only if actual corresponding pages are implemented. Do not create misleading links.
+
+## 5. FUNCTIONAL REQUIREMENTS
+
+Build a genuinely usable website, not a static mockup.
+
+Implement:
+
+1. Responsive desktop, tablet, and mobile layouts.
+2. Sticky navigation header.
+3. Working mobile hamburger menu.
+4. Smooth-scroll navigation.
+5. Functional menu category filters.
+6. Interactive food gallery with lightbox.
+7. Click-to-call phone links using `tel:+12142386058`.
+8. Google Maps and directions links.
+9. Functional buttons that navigate to valid destinations.
+10. Accessible forms with validation if forms are included.
+11. Clear loading, error, and success states for any connected features.
+12. Keyboard-accessible navigation and interactive components.
+13. Subtle, polished hover and focus effects.
+14. Working external links that open the correct destination.
+15. A reusable, easily editable menu data structure.
+16. A reusable business-information configuration for the name, address, phone, opening hours, and external links.
+
+Do not add a fake shopping cart, checkout process, reservation system, or order confirmation flow without a working backend or genuine third-party integration.
+
+### Online ordering
+
+If a verified online ordering URL exists, connect the "Order Online" buttons to it.
+
+If no ordering platform is available, use "Call to Order" or "Contact the Restaurant" as the main action.
+
+Keep the implementation ready for future integration with a restaurant ordering platform, but do not pretend that online payments or orders are being processed.
+
+### Reservation functionality
+
+Do not assume that Uptown Dumpling accepts reservations.
+
+If reservation functionality is confirmed, connect it to a verified booking service or implement a real reservation form backed by an appropriate service.
+
+Otherwise, prioritize calling the restaurant and visiting the menu.
+
+## 6. TECHNICAL STACK
+
+Build the website using the most suitable modern stack supported by Google AI Studio.
+
+Preferred stack:
+
+- React
+- TypeScript
+- Vite, if appropriate for the selected environment
+- Tailwind CSS or well-structured CSS
+- Lucide icons or a similar consistent icon library
+- Reusable React components
+- Responsive CSS Grid and Flexbox
+
+Suggested component architecture:
+
+- `TopBar`
+- `Navbar`
+- `HeroSection`
+- `AboutSection`
+- `MenuSection`
+- `SignatureFeature`
+- `OffersSection`
+- `FeaturesSection`
+- `GallerySection`
+- `LocationSection`
+- `ReviewsSection`
+- `CallToAction`
+- `Footer`
+
+Organize the code into clear, maintainable components and separate business data from presentation wherever practical.
+
+Use semantic HTML elements, clean TypeScript types, descriptive component names, and consistent formatting.
+
+Avoid unnecessary dependencies, bloated code, duplicated components, and placeholder functionality.
+
+## 7. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must look excellent on all major screen sizes.
+
+Desktop:
+
+- Spacious two-column hero layout.
+- Large food photography.
+- Balanced section widths.
+- Multi-column menu cards.
+- Full navigation header.
+
+Tablet:
+
+- Adapted grid layouts.
+- Comfortable spacing.
+- Properly scaled images and typography.
+- Navigation that remains easy to use.
+
+Mobile:
+
+- Mobile-first responsive layout.
+- Compact header and accessible hamburger menu.
+- Hero headline that fits the viewport.
+- Food image displayed without awkward cropping.
+- Menu cards in one or two columns, depending on screen width.
+- Large, touch-friendly buttons.
+- No horizontal overflow.
+- Address and phone links that are easy to tap.
+- Legible text and properly spaced controls.
+
+Test the design at approximately 375px, 430px, 768px, 1024px, 1440px, and wider desktop sizes.
+
+## 8. ANIMATIONS AND INTERACTIONS
+
+Use tasteful, lightweight animations:
+
+- Fade-in effects as sections enter the viewport.
+- Gentle image transitions.
+- Small button hover effects.
+- Subtle card elevation on hover.
+- Smooth scrolling between sections.
+- Elegant mobile navigation transitions.
+- Lightbox open and close transitions.
+
+Respect the user's reduced-motion accessibility preference.
+
+Avoid excessive animation, parallax effects that harm performance, distracting motion, and slow-loading visual effects.
+
+## 9. SEO AND LOCAL SEARCH OPTIMIZATION
+
+Optimize the website for local restaurant searches.
+
+Suggested page title:
+
+"Uptown Dumpling | Dumplings & Asian Food in Dallas, TX"
+
+Suggested meta description:
+
+"Discover Uptown Dumpling in Dallas, Texas. Explore our menu, find our Preston Road location, and contact us for information about our dumplings and Asian-inspired dishes."
+
+Use natural, relevant search phrases where appropriate, such as:
+
+- Uptown Dumpling Dallas
+- Dumpling restaurant in Dallas
+- Dumplings near Preston Road
+- Asian restaurant in Dallas, TX
+
+Do not keyword-stuff the content or claim specific cuisine styles, menu items, or services that have not been verified.
+
+Implement:
+
+- One clear H1 per page.
+- Logical H2 and H3 heading hierarchy.
+- Descriptive image alt text.
+- Canonical URL configuration when the domain is known.
+- Open Graph metadata.
+- Appropriate robots and sitemap configuration.
+- LocalBusiness or Restaurant structured data using Schema.org.
+- Correct name, address, and telephone number.
+- Opening hours only when verified.
+- Menu and price data only when confirmed.
+
+Do not invent a website domain, business email address, social media profiles, or geographic coordinates.
+
+## 10. PERFORMANCE AND ACCESSIBILITY
+
+Ensure the website is fast and accessible.
+
+Performance:
+
+- Optimize and compress images.
+- Use modern image formats when available.
+- Lazy-load below-the-fold images.
+- Prioritize the hero image.
+- Avoid layout shifts.
+- Minimize unnecessary JavaScript.
+- Use responsive image sizing.
+- Avoid oversized video backgrounds.
+
+Accessibility:
+
+- Provide sufficient color contrast.
+- Use descriptive alt text.
+- Ensure keyboard navigation works.
+- Provide visible focus indicators.
+- Use semantic buttons and links.
+- Label all form fields.
+- Make dialogs and lightboxes keyboard accessible.
+- Respect reduced-motion settings.
+- Ensure text remains readable on small screens.
+
+## 11. CONTENT ACCURACY AND BUSINESS DATA
+
+Use the following verified business information as the source of truth:
+
+Business name: Uptown Dumpling
+
+Address: 18101 Preston Rd #204c, Dallas, TX 75252, United States
+
+Telephone: +1 214-238-6058
+
+Google Business Profile: [https://maps.app.goo.gl/R3DEpH9V8L2DbKec7](https://maps.app.goo.gl/R3DEpH9V8L2DbKec7)
+
+For any unknown business details, create editable placeholders in the code and do not publish invented information as fact.
+
+This includes:
+
+- Actual menu items and prices.
+- Opening hours.
+- Online ordering links.
+- Delivery and pickup availability.
+- Reservation availability.
+- Restaurant interior photographs.
+- Social media profiles.
+- Customer reviews.
+- Discounts and promotions.
+- Dietary certifications and allergen information.
+
+When possible, research the provided Google Business Profile and other publicly available business information before writing the final content. Verify that any information belongs to the correct Uptown Dumpling location.
+
+If a detail cannot be verified, leave it editable and use an appropriate neutral alternative.
+
+## 12. FINAL DESIGN DIRECTION
+
+The final result should combine:
+
+- The premium restaurant layout of the uploaded reference.
+- The warmth of an inviting Asian dining brand.
+- Large, appetizing food imagery.
+- Elegant serif headlines and modern sans-serif body text.
+- Forest-green and ivory brand colors.
+- Tasteful chili-red and golden-orange accents.
+- Refined spacing and subtle rounded corners.
+- A clean menu-card system.
+- Strong, visible calls to action.
+- Clear contact and location information.
+- A mobile-first customer experience.
+
+The finished website should feel polished, authentic, trustworthy, visually memorable, and ready for a real restaurant business.
+
+## 13. FINAL INSTRUCTIONS TO GOOGLE AI STUDIO
+
+Generate the complete working website, including all required source files and components.
+
+Do not stop after producing a visual design, wireframe, explanation, or partial code sample.
+
+Start by establishing the project structure, then implement the full design and functionality.
+
+Use realistic, high-quality food images, create the original Uptown Dumpling brand identity, and ensure that every navigation item and button performs its intended action.
+
+If a backend or third-party service is required for a feature, clearly identify the required integration and provide a working frontend fallback rather than faking success.
+
+After implementation:
+
+1. Run the application.
+2. Check for compilation errors and runtime errors.
+3. Verify that all internal navigation links work.
+4. Test the mobile menu and responsive layouts.
+5. Verify the phone and Google Maps links.
+6. Check image loading and replace broken images.
+7. Confirm that menu filters and gallery interactions work.
+8. Check SEO metadata and accessibility basics.
+9. Correct all obvious visual and functional problems.
+10. Provide the complete, maintainable project source code.
+
+**Final objective:** Deliver a beautiful, premium-quality, responsive restaurant website for Uptown Dumpling that turns website visitors into real customers while accurately representing the business and its verified services.
+
+## How to use this prompt
+
+1. Open [Google AI Studio](https://aistudio.google.com/?utm_source=chatgpt.com).
+2. Start a website-building project or open the coding environment.
+3. Upload the restaurant reference screenshot so the AI can use it as a design reference.
+4. Copy and paste the entire prompt above.
+5. Ask the builder to run the website and fix any errors before considering it complete.
+
+My recommendation: Before publishing, confirm the actual menu, prices, business hours, and ordering options. Those details will make the website more useful to customers and prevent inaccurate information from appearing online.
